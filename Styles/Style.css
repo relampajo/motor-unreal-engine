@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    background-color:aqua;
+    text-align: center;
+    font-family: 'Golos Text', sans-serif;
+    
+}
+html{
+    background-image: url(/Image/messi\ xd.png);
+    background-repeat: no-repeat;
+    background-size: 190% 190vh;
+}
